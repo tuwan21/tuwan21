@@ -1,4 +1,6 @@
 ### 🙋Hi there 👋
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 <!--
                                               Hello，ヾ(≧∇≦*)ゝ，我是Koyal，可以叫我小姬。
                                                            一个非科班Gopher 
