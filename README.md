@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=1000&color=53A7F7&random=false&width=435&lines=%E5%B0%8F%E5%A7%AC%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=1000&color=53A7F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Hello%EF%BC%8C%E3%83%BE(%E2%89%A7%E2%88%87%E2%89%A6*)%E3%82%9D%EF%BC%8C%E6%88%91%E6%98%AFKoyal%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%8F%AB%E6%88%91%E5%B0%8F%E5%A7%AC%E3%80%82+;%E4%B8%80%E4%B8%AA%E9%9D%9E%E7%A7%91%E7%8F%ADGopher+;%E6%88%91%E4%BB%8E%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A7%AF%E6%9E%81%E4%B9%90%E8%A7%82%E7%9A%84%E4%BA%BA;%E4%BD%86%E5%BE%88%E5%B9%B8%E8%BF%90%EF%BC%8C%E5%BE%88%E5%BA%86%E5%B9%B8%E9%81%87%E5%88%B0%E5%B0%8F%E7%BB%84;%E9%81%87%E5%88%B0%E4%B8%80%E4%BA%9B%E8%B0%88%E5%A4%A9%E8%AF%B4%E5%9C%B0%E7%9A%84%E6%9C%8B%E5%8F%8B;%E9%81%87%E5%88%B0%E4%B8%A7%E4%BD%86%E7%A7%AF%E6%9E%81%E5%90%91%E4%B8%8A%E7%9A%84%E5%AD%A6%E9%95%BF;%E9%81%87%E5%88%B0%E4%B8%A5%E5%8E%89%E5%8D%B4%E6%B2%A1%E6%8A%9B%E5%BC%83%E7%9A%84%E5%AD%A6%E5%A7%90;%E4%B9%9F%E9%81%87%E5%88%B0%E4%BA%86%E6%87%82%E5%BE%97%E8%87%AA%E6%84%88%E7%9A%84%E8%87%AA%E5%B7%B1)](https://git.io/typing-svg)
 <!--
 **tuwan21/tuwan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
