@@ -1,5 +1,5 @@
 ### 🙋Hi there 👋
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <!--
                                               Hello，ヾ(≧∇≦*)ゝ，我是Koyal，可以叫我小姬。
